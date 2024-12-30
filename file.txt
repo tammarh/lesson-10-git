@@ -22,7 +22,14 @@ https://github.com/tammarh/lesson_seven_git/tree/new-feature-2
 
 https://github.com/tammarh/lesson_seven_git/pull/2
 
+5)
 
+משימה זו לא עבדה טוב אני חושבת בגלל הסינון הוא יצר מפתח 
+ציבורי כנדרש והראה בgitHub אבל לא נתן לעשות clone אם כתובת ה ssh
+(ניסיתי לפתור את הבעיה ולא הצלחתי:( )
+ 
+https://github.com/settings/keys
+6) ואחרון...
 
 
 
